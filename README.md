@@ -1,6 +1,12 @@
 # StillSuitVR  
 
-## Personal environmental control  
+## Personal environmental control 
+
+Related:
+ - https://www.behance.net/gallery/6579685/C-Thru-Smoke-Diving-Helmet  
+ 
+
+
 
 ### Arduino environment  
 
