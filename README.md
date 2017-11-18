@@ -7,11 +7,13 @@ Related:
  - https://coolshirt.com/ , https://www.youtube.com/watch?v=W4nE_KgjhqM  
  - http://www.dextarobotics.com/  
  - https://www.amazon.ca/ASIBG-Home-inflatable-bathtub-155%C3%9784%C3%9745cm/dp/B072HYX83G  
+ - https://www.pinterest.ca/pin/365424957236077225/  
  - http://www.instructables.com/id/Camping-Hot-Tub/  
  
 ## Heat exchange, cryptocurrency energy spotmarket  
 
  - https://powerledger.io/ - offsetting mining rig waste heat  
+ - https://wepower.network/  
 
 ## Construction related  
 
