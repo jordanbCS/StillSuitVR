@@ -2,7 +2,8 @@
 
 ## Personal environmental control 
 
-Related:
+Related:  
+ - https://thenextweb.com/cryptocurrency/2017/12/12/startup-uses-body-heat-to-mine-crypto-for-when-robots-take-jobs/  
  - https://www.behance.net/gallery/6579685/C-Thru-Smoke-Diving-Helmet  
  - https://coolshirt.com/ , https://www.youtube.com/watch?v=W4nE_KgjhqM  
  - http://www.dextarobotics.com/  
