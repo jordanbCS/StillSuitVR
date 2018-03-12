@@ -10,6 +10,7 @@ Related:
  - https://www.amazon.ca/ASIBG-Home-inflatable-bathtub-155%C3%9784%C3%9745cm/dp/B072HYX83G  
  - https://www.pinterest.ca/pin/365424957236077225/  
  - http://www.instructables.com/id/Camping-Hot-Tub/  
+ - https://www.reddit.com/r/Bitcoin/comments/83epzx/who_would_imagine_that_mining_cryptocurrencies/  
  
 ## Heat exchange, cryptocurrency energy spotmarket  
 
