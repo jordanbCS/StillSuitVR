@@ -3,7 +3,7 @@
 ## Personal environmental control 
 
 Related:  
- - https://www.icaros.com/  
+ - https://www.icaros.com/ - Active Virtual Reality - https://www.youtube.com/watch?v=OMBxuWzfyko  
  - https://www.reddit.com/r/virtualreality/comments/8s24gp/the_first_vr_mario_kart_using_a_real_vehicle_not/  
  - https://thenextweb.com/cryptocurrency/2017/12/12/startup-uses-body-heat-to-mine-crypto-for-when-robots-take-jobs/  
  - https://www.behance.net/gallery/6579685/C-Thru-Smoke-Diving-Helmet  
