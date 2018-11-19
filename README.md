@@ -2,7 +2,8 @@
 
 ## Personal environmental control 
 
-Related:  
+Related: 
+ - https://www.indiegogo.com/projects/feel-three-virtual-reality-motion-simulator--2#/  
  - https://www.reddit.com/r/virtualreality/comments/9mpfbm/i_added_flightstick_support_to_my_vr_helicopter/  
  - wood saw simulator using magnets and Viv tracker https://www.youtube.com/watch?v=AH42Ql5SvCg  
  - https://www.icaros.com/ - Active Virtual Reality - https://www.youtube.com/watch?v=OMBxuWzfyko  
