@@ -3,6 +3,7 @@
 ## Personal environmental control 
 
 Related: 
+ - https://www.reddit.com/r/CryptoCurrency/comments/8kbg05/this_guy_heated_bath_water_with_bitcoin_mining/  
  - https://www.indiegogo.com/projects/feel-three-virtual-reality-motion-simulator--2#/  
  - https://www.reddit.com/r/virtualreality/comments/9mpfbm/i_added_flightstick_support_to_my_vr_helicopter/  
  - wood saw simulator using magnets and Viv tracker https://www.youtube.com/watch?v=AH42Ql5SvCg  
