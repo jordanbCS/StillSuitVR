@@ -3,6 +3,7 @@
 ## Personal environmental control 
 
 Related: 
+ - https://www.reddit.com/r/DIY/comments/brs9jb/i_built_a_rig_for_sim_racing/  
  - https://www.reddit.com/r/CryptoCurrency/comments/8kbg05/this_guy_heated_bath_water_with_bitcoin_mining/  
  - https://www.indiegogo.com/projects/feel-three-virtual-reality-motion-simulator--2#/  
  - https://www.reddit.com/r/virtualreality/comments/9mpfbm/i_added_flightstick_support_to_my_vr_helicopter/  
